@@ -1,4 +1,4 @@
-# CNN
+# MNIST Digit Classification using a Convolutional Neural Network with TensorFlow
 Overview :
 This code loads the MNIST dataset using TensorFlow Datasets, splits it into training, validation, and test sets, and then trains a simple convolutional neural network (CNN) on the training set. The trained model is then evaluated on the test set. The code also includes some visualization of the data and the training history.
 
